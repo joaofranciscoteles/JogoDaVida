@@ -18,6 +18,9 @@ Solução Proposta
 - JogodaVida.cpp: Contém a declaração das funções utilizadas.
 
 Para atualizar as células foram utilizadas duas matrizes, uma chamada de original e uma cópia. A função processa_matriz que recebe as matrizes e faz a verificação das regras bases, utilizando a chamada de outra função para contar o número de vizinhos de cada célula em determinada posição.
-
-
 </p>
+
+
+<div align=center>
+<img src=width="650px">
+</div>

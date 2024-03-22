@@ -29,6 +29,8 @@ Para atualizar as células foram utilizadas duas matrizes, uma chamada de origin
 A imagem ilustra o funcionamento da função processa_matriz juntamente com a função conta_vizinhos
 </p>
 
+# Resultados Esperados
+
 
 # Compilação e Execução
 

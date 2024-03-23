@@ -30,6 +30,10 @@ A imagem ilustra o funcionamento da função processa_matriz juntamente com a fu
 </p>
 
 # Resultados Esperados
+<p>Para análise do correto funcionamento do código foram feitos testes que averiguaram a leitura da matriz, o processamento dela conforme as regras e sua escrita no arquivo. Todas essas etapas ocorreram conforme o esperado e apresentaram os resultados desejados. Para exemplificar o funcionamento do código de maneira correta foi testado uma matriz 5x5 e um número de gerações igual a 9, conforme mostrado nas imagens abaixo. O resultado obtido teve sucesso e se mostrou coerente.</p>
+<div align=center>
+<img src="" width="650px">
+</div>
 
 
 # Compilação e Execução

@@ -43,10 +43,10 @@ Na imagem, matriz de entrada 5x5 utilizada para teste
 <img src="Captura de tela de 2024-03-23 17-43-11.png" width="400px">
 </div>
 <p>
-  No arquivo geracoes.mps, foram salvas todas as matrizes até a primeira matriz nula, conforme mostrado na imagem abaixo: 
+  No arquivo geracoes.mps, foram salvas todas as matrizes, da matriz original até a primeira matriz nula, conforme mostrado na imagem abaixo: 
 </p>
 <div align=center>
-<img src="" width="400px">
+<img src="Captura de tela de 2024-03-24 15-13-06.png" width="400px">
 </div>
 
 

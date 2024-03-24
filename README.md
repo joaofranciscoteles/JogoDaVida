@@ -37,6 +37,11 @@ A imagem ilustra o funcionamento da função processa_matriz juntamente com a fu
 <p  align="center">
 Na imagem, matriz de entrada 5x5 utilizada para teste
 </p>
+<p>Para um número de gerações igual a 9 passado pelo usuário, na quinta geração a matriz zerou totalmente, levando a uma repetição de matrizes nulas. Para corrigir esse problema foi criada uma função que verificava a cada geração se a matriz era nula e no caso de ser o programa parava, exibindo na tela a mensagem de extinção da civilização, conforme mostrado na imagem a seguir:</p>
+
+<div align=center>
+<img src="Captura de tela de 2024-03-23 17-57-24.png" width="400px">
+</div>
 
 
 # Compilação e Execução
